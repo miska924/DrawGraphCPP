@@ -19,6 +19,6 @@ To make <NEW TEST> you need to use terminal:
             (numeration of vertexes begins with 1 and ends with N)
 
 WARNING:
-    Your graph need to be connected.
+    Your graph needs to be connected.
     If it is not this program does not work correctly.
     Sory about that, it's just the first version.
