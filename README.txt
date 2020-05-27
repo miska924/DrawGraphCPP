@@ -21,4 +21,4 @@ To make <NEW TEST> you need to use terminal:
 WARNING:
     Your graph needs to be connected.
     If it is not this program does not work correctly.
-    Sory about that, it's just the first version.
+    Sorry about that, it's just the first version.
