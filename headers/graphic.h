@@ -135,7 +135,7 @@ void run(int &argc, char **argv) {
     glutInit(&argc, argv);
     glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB | GLUT_DEPTH | GLUT_MULTISAMPLE);
     glutInitWindowSize(1000 * 0.8, 800 * 0.8);
-    glutInitWindowPosition(0, 0);
+    glutInitWindowPosition(100, 100);
     glutCreateWindow("BURNING GRAPH");
     glutDisplayFunc(Draw);
     glutTimerFunc(50, Timer, 0);

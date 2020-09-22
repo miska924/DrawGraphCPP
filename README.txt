@@ -8,7 +8,14 @@ g++ test.cpp -o mktest --std=c++17 -O2
 To <RUN> the Program you need to use terminal:
         ./draw
     After that enter a number of parallel processes you need
+
     And finally enter a name for the test you want to see
+
+![](demo1.gif)
+
+![](demo2.gif)
+
+![](demo3.gif)
     
 To make <NEW TEST> you need to use terminal:
         ./mktest
