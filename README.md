@@ -1,12 +1,12 @@
 IF THERE IS NO OPENGL YOU HAVE TO INSTALL IT:
     for ubuntu:
-    ``sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev
+    sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev
 
-    ``g++ solution.cpp -o draw --std=c++17 -O2 -lGL -lglut
-    ``g++ test.cpp -o mktest --std=c++17 -O2
+    g++ solution.cpp -o draw --std=c++17 -O2 -lGL -lglut
+    g++ test.cpp -o mktest --std=c++17 -O2
 
 To <RUN> the Program you need to use terminal:
-    ``./draw
+    ./draw
 After that enter a number of parallel processes you need
 
 And finally enter a name for the test you want to see
@@ -18,7 +18,7 @@ And finally enter a name for the test you want to see
 ![](demo3.gif)
     
 To make <NEW TEST> you need to use terminal:
-      ``./mktest
+      ./mktest
     After that you need to give your graph in this format:
         the first number is N - number of vertexes
         sthe econd number if M - numper of edges
