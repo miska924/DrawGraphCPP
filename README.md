@@ -1,4 +1,5 @@
 IF THERE IS NO OPENGL YOU HAVE TO INSTALL IT:
+
   for ubuntu:
     
     sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev
@@ -20,11 +21,13 @@ And finally enter a name for the test you want to see
 ![](demo3.gif)
     
 To make <NEW TEST> you need to use terminal:
+  
       ./mktest
-    After that you need to give your graph in this format:
+    
+After that you need to give your graph in this format:
         the first number is N - number of vertexes
-        sthe econd number if M - numper of edges
-        next M lines includes edges(pairs of vertexes)
+        the second number if M - numper of edges
+        next M lines includes edges (pairs of vertexes)
             (numeration of vertexes begins with 1 and ends with N)
 
 WARNING:
