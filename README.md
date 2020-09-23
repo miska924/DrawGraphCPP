@@ -20,7 +20,7 @@ And finally enter a name for the test you want to see
 
 ![](demo3.gif)
     
-To make <NEW TEST> you need to use terminal:
+To make NEW TEST you need to use terminal:
   
       ./mktest
     
