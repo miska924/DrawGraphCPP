@@ -26,7 +26,7 @@ To make NEW TEST you need to use terminal:
     
 After that you need to give your graph in this format:
         the first number is N - number of vertexes
-        the second number if M - numper of edges
+        the second number is M - number of edges
         next M lines includes edges (pairs of vertexes)
             (numeration of vertexes begins with 1 and ends with N)
 
